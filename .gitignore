@@ -1,2 +1,15 @@
 /.ipynb_checkpoints
-/.venv
+
+# Python runtime files
+__pycache__/
+*.py[oc]
+.pytest_cache/
+
+# Local Python environment
+.venv/
+
+# Local OS files
+.DS_Store
+
+# Ignore datasets
+/data/
