@@ -13,3 +13,6 @@ __pycache__/
 
 # Ignore datasets
 /data/
+
+# Ignore artifacts
+/artifacts/
